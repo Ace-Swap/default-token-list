@@ -150,5 +150,13 @@
     "decimals": 2,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.png"
+  },
+  {
+    "name": "AceToken",
+    "address": "0x550d07A5c1591331598E4e3A38a8C32d41EFc7B7",
+    "symbol": "ACE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/Ace-Swap/assets/master/blockchains/polygon/assets/0x550d07A5c1591331598E4e3A38a8C32d41EFc7B7/logo.png"
   }
 ]
